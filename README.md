@@ -33,7 +33,7 @@ pip install -r requirements.txt
 Использование
 Запустите скрипт:
 ```
-python weather_script.py
+python main.py
 ```
 
 После запуска скрипт начнет автоматически собирать данные о погоде каждые 3 минуты.
