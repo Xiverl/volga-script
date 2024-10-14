@@ -13,26 +13,26 @@ Python 3.7+
 
 ## Установка
 Клонируйте репозиторий:
-```
+```bash
 git clone https://github.com/Xiverl/volga-script.git
 cd volga-script
 ```
 
 Создайте и активируйте виртуальное окружение:
-```
+```bash
 python -m venv venv
 source venv/bin/activate  # Для Linux и macOS
 venv\Scripts\activate  # Для Windows
 ```
 
 Установите зависимости:
-```
+```bash
 pip install -r requirements.txt
 ```
 
 Использование
 Запустите скрипт:
-```
+```bash
 python main.py
 ```
 
