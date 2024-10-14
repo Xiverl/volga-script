@@ -14,8 +14,8 @@ Python 3.7+
 ## Установка
 Клонируйте репозиторий:
 ```
-git clone https://github.com/your-username/skoltech-weather-data.git
-cd skoltech-weather-data
+git clone https://github.com/Xiverl/volga-script.git
+cd volga-script
 ```
 
 Создайте и активируйте виртуальное окружение:
