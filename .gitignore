@@ -1,0 +1,37 @@
+# Виртуальное окружение
+venv/
+env/
+.venv/
+.env/
+
+# База данных SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Файлы IDE
+.vscode/
+.idea/
+*.swp
+
+# Файлы операционной системы
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
+
+# Временные файлы
+*.tmp
+
+# Файлы настроек
+*.ini
+*.cfg
+
+# Файлы окружения
+.env
